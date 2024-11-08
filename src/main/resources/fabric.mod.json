@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "brocraft-cobblemon-additions",
+	"version": "${version}",
+	"name": "Brocraft-Cobblemon-additions",
+	"description": "A mod that adds custom village structures and enhances gameplay with Cobblemon features.",
+	"authors": [
+		"Strikebyte/Strikeknight57"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/cobblemon-additions",
+		"sources": "https://modrinth.com/project/cobblemon-additions"
+	},
+	"license": "MIT",
+	"icon": "assets/bca/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.strikebyte.bca.BrocraftCobblemonadditions"
+		],
+		"Client": [
+			"com.strikebyte.bca.BCAClient"
+		],
+		"fabric-datagen": [
+			"com.strikebyte.bca.BrocraftCobblemonadditionsDataGenerator"
+		]
+	},
+	"mixins": [
+		"brocraft-cobblemon-additions.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
