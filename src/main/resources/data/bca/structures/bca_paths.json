@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "pools": [
+    {
+      "name": "bca:paths",
+      "elements": [
+        { "weight": 10, "name": "bca:path_well_cross_road" },
+        { "weight": 10, "name": "bca:path_straight-curved" },
+        { "weight": 10, "name": "bca:path_t-joint" },
+        { "weight": 10, "name": "bca:path_90_degree" },
+        { "weight": 10, "name": "bca:path_rare_road" },
+        { "weight": 10, "name": "bca:path_cross_roads" }
+      ]
+    }
+  ]
+}

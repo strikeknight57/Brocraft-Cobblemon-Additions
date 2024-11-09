@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:random_selector",
+  "pools": [
+    {
+      "name": "bca:general_decor",
+      "elements": [
+        { "weight": 10, "name": "bca:bench_1" },
+        { "weight": 10, "name": "bca:bench_2" },
+        { "weight": 10, "name": "bca:bench_3" },
+        { "weight": 10, "name": "bca:cart_1" },
+        { "weight": 10, "name": "bca:cart_2" },
+        { "weight": 10, "name": "bca:small_wagon" },
+        { "weight": 10, "name": "bca:berry_stand_1" },
+        { "weight": 10, "name": "bca:berrystand_2" },
+        { "weight": 10, "name": "bca:berrystand_3" },
+        { "weight": 10, "name": "bca:picnic_table_1" },
+        { "weight": 10, "name": "bca:picnic_table_2" },
+        { "weight": 10, "name": "bca:decor_1" },
+        { "weight": 10, "name": "bca:berrystand_4" },
+        { "weight": 10, "name": "bca:berrystand_5" },
+        { "weight": 10, "name": "bca:decorations_well" },
+        { "weight": 10, "name": "bca:decoration_well_2" },
+        { "weight": 10, "name": "bca:decor_3" },
+        { "weight": 10, "name": "bca:decor_2" },
+        { "weight": 10, "name": "bca:market_stall_1" },
+        { "weight": 10, "name": "bca:market_stall_2" },
+        { "weight": 10, "name": "bca:cart_4" },
+        { "weight": 10, "name": "bca:cart_5" },
+        { "weight": 10, "name": "bca:cart_6" }
+      ]
+    }
+  ]
+}

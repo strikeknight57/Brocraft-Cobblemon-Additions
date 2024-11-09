@@ -1,0 +1,22 @@
+{
+  "name": "bca:centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "bca:center_department_store",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "location": "bca:center_battlepad",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 10
+    }
+  ]
+}

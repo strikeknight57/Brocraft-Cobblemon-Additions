@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bca:path_well_cross_road",
+    "bca:path_straight-curved",
+    "bca:path_t-joint",
+    "bca:path_90_degree",
+    "bca:path_rare_road",
+    "bca:path_cross_roads"
+  ]
+}

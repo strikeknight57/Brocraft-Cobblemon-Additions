@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "pools": [
+    {
+      "name": "bca:centers",
+      "elements": [
+        { "weight": 10, "name": "bca:center_battlepad" },
+        { "weight": 1, "name": "bca:center_department_store" }
+      ]
+    }
+  ]
+}

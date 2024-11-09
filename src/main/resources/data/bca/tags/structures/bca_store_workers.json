@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "bca:nurse_joy",
+    "bca:shopkeeper_ds_general",
+    "bca:shopkeeper_ds_battle_items",
+    "bca:shopkeeper_ds_vitamins",
+    "bca:shopkeeper_ds_apricorns",
+    "bca:shopkeeper_ds_xp",
+    "bca:shopkeeper_ds_ev-stone",
+    "bca:shopkeeper_ds_ev-stone_2",
+    "bca:shopkeeper_ds_held_items",
+    "bca:shopkeeper_ds_held_items_2",
+    "bca:shopkeeper_ds_special_balls",
+    "bca:shopkeeper_ds_mulch",
+    "bca:shopkeeper_ds_food",
+    "bca:shopkeeper_ds_tech",
+    "bca:pokemart_shopkeeper"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bca:paths",
+  "fallback": "minecraft:empty",
+  "elements": [
+    { "element": { "location": "bca:path_well_cross_road", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:path_straight-curved", "processors": "minecraft:empty", "projection": "terrain_matching" }, "weight": 1 },
+    { "element": { "location": "bca:path_t-joint", "processors": "minecraft:empty", "projection": "terrain_matching" }, "weight": 1 },
+    { "element": { "location": "bca:path_90_degree", "processors": "minecraft:empty", "projection": "terrain_matching" }, "weight": 1 },
+    { "element": { "location": "bca:path_rare_road", "processors": "minecraft:empty", "projection": "terrain_matching" }, "weight": 1 },
+    { "element": { "location": "bca:path_cross_roads", "processors": "minecraft:empty", "projection": "terrain_matching" }, "weight": 1 }
+  ]
+}

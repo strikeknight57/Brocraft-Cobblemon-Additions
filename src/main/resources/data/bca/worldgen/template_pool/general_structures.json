@@ -1,0 +1,24 @@
+{
+  "name": "bca:general_structures",
+  "fallback": "minecraft:empty",
+  "elements": [
+    { "element": { "location": "bca:snug_spruce_retreat", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_summer_cottage", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:berrybush_bungalow", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:blossom_balcony", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_clover_cottage", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_lanturn_lodge", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_cozy_cranny", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:pebble_roof_manor", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_miners_den", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_chimney_loft", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:fern_and_flower_cottage", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:mossy_meadow_home", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:honeycomb_haven_apiary", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:the_ivyclad_cottage", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:winding_willow_house", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:sunflower_shack", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 1 },
+    { "element": { "location": "bca:structure_pokemart", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 0 },
+    { "element": { "location": "bca:structure_pokecenter", "processors": "minecraft:empty", "projection": "rigid" }, "weight": 0 }
+  ]
+}

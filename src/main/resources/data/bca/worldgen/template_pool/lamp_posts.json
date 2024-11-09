@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:template_pool",
+  "name": "bca:lamp_posts",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "name": "bca:lamp_post_bench"
+    },
+    {
+      "weight": 10,
+      "name": "bca:lamp_post_2"
+    },
+    {
+      "weight": 10,
+      "name": "bca:large_lamp_post_3"
+    },
+    {
+      "weight": 10,
+      "name": "bca:lamp_post_4"
+    },
+    {
+      "weight": 10,
+      "name": "bca:lamp_post_5"
+    },
+    {
+      "weight": 10,
+      "name": "bca:water_pump"
+    }
+  ],
+  "projection": "rigid"
+}

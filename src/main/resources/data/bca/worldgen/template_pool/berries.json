@@ -1,0 +1,300 @@
+{
+  "type": "minecraft:template_pool",
+  "name": "bca:berries",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "name": "bca:berry_1"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_2"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_3"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_4"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_5"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_6"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_7"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_8"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_9"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_10"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_11"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_12"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_13"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_14"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_15"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_16"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_17"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_18"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_19"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_20"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_21"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_22"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_23"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_24"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_25"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_26"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_27"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_28"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_29"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_30"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_31"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_32"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_33"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_34"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_35"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_36"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_37"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_38"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_39"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_40"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_41"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_42"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_43"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_44"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_45"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_46"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_47"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_48"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_49"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_50"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_51"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_52"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_53"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_54"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_55"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_56"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_57"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_58"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_59"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_60"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_61"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_62"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_63"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_64"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_65"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_66"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_67"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_68"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_69"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_70"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_71"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_72"
+    },
+    {
+      "weight": 1,
+      "name": "bca:berry_73"
+    }
+  ],
+  "projection": "rigid"
+}

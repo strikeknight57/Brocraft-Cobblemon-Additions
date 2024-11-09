@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:template_pool",
+  "name": "bca:store_workers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "name": "bca:nurse_joy"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_general"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_battle_items"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_vitamins"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_apricorns"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_xp"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_ev-stone"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_ev-stone_2"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_held_items"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_held_items_2"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_special_balls"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_mulch"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_food"
+    },
+    {
+      "weight": 10,
+      "name": "bca:shopkeeper_ds_tech"
+    },
+    {
+      "weight": 10,
+      "name": "bca:pokemart_shopkeeper"
+    }
+  ],
+  "projection": "rigid"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "pools": [
+    {
+      "name": "bca:general_structures",
+      "elements": [
+        { "weight": 10, "name": "bca:snug_spruce_retreat" },
+        { "weight": 10, "name": "bca:the_summer_cottage" },
+        { "weight": 10, "name": "bca:berrybush_bungalow" },
+        { "weight": 10, "name": "bca:blossom_balcony" },
+        { "weight": 10, "name": "bca:the_clover_cottage" },
+        { "weight": 10, "name": "bca:the_lanturn_lodge" },
+        { "weight": 10, "name": "bca:the_cozy_cranny" },
+        { "weight": 10, "name": "bca:pebble_roof_manor" },
+        { "weight": 10, "name": "bca:the_miners_den" },
+        { "weight": 10, "name": "bca:the_chimney_loft" },
+        { "weight": 10, "name": "bca:fern_and_flower_cottage" },
+        { "weight": 10, "name": "bca:mossy_meadow_home" },
+        { "weight": 10, "name": "bca:honeycomb_haven_apiary" },
+        { "weight": 10, "name": "bca:the_ivyclad_cottage" },
+        { "weight": 10, "name": "bca:winding_willow_house" },
+        { "weight": 10, "name": "bca:sunflower_shack" },
+        { "weight": 0, "name": "bca:structure_pokemart" },
+        { "weight": 0, "name": "bca:structure_pokecenter" }
+      ]
+    }
+  ]
+}

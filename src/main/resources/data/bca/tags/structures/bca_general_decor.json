@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "bca:bench_1",
+    "bca:bench_2",
+    "bca:bench_3",
+    "bca:cart_1",
+    "bca:cart_2",
+    "bca:small_wagon",
+    "bca:berry_stand_1",
+    "bca:berrystand_2",
+    "bca:berrystand_3",
+    "bca:picnic_table_1",
+    "bca:picnic_table_2",
+    "bca:decor_1",
+    "bca:berrystand_4",
+    "bca:berrystand_5",
+    "bca:decorations_well",
+    "bca:decoration_well_2",
+    "bca:decor_3",
+    "bca:decor_2",
+    "bca:market_stall_1",
+    "bca:market_stall_2",
+    "bca:cart_4",
+    "bca:cart_5",
+    "bca:cart_6"
+  ]
+}
