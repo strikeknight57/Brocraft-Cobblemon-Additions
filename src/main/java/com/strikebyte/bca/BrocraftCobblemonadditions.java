@@ -14,6 +14,6 @@ public class BrocraftCobblemonadditions implements ModInitializer {
 	public void onInitialize() {
 
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Brocraft Cobblemon Additions mod has been loaded!");
 	}
 }

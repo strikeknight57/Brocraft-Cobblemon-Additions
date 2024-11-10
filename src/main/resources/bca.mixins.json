@@ -3,7 +3,7 @@
 	"package": "com.strikebyte.bca.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"VillageFeatureMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

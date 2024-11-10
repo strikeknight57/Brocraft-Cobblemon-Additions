@@ -1,0 +1,22 @@
+[
+    {
+        "modid": "bca",
+        "name": "Brocraft Cobblemon Additions",
+        "version": "1.0.0",
+        "description": "A mod that adds custom village structures and enhances gameplay with Cobblemon features.",
+        "authors": ["Strikebyte"], // Replace with your name or alias
+        "credits": "Thanks to the Minecraft and Cobblemon communities as well as my beautiful wife for helping me build out his mod!",
+        "url": "http://example.com", // Optional: replace with your mod's URL
+        "updateUrl": "https://modrinth.com/project/cobblemon-additions", // Optional: replace with your mod's update URL
+        "logoFile": "assets/bca/textures/logo.png", // Optional: path to your mod logo
+        "dependencies": [
+            {
+                "modid": "fabric",
+                "mandatory": true,
+                "versionRange": "[0.31.0,)", // Adjust the version as needed
+                "ordering": "none",
+                "side": "both"
+            }
+        ]
+    }
+]
