@@ -12,7 +12,7 @@
 		"sources": "https://modrinth.com/project/cobblemon-additions"
 	},
 	"license": "MIT",
-	"icon": "assets/bca/icon.png",
+	"icon": "resources/assets/bca/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
